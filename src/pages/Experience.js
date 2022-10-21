@@ -13,18 +13,20 @@ function Experience() {
       <VerticalTimeline lineColor="#3e497a">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2010 - 2014"
+          date="2018 - 2022"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Random High School, Random Place, Random State
+            Lawrence Park Collegiate Institute, Toronto, Ontario
           </h3>
-          <p> High School Diploma</p>
+          <p> 
+            High School Diploma
+          </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2014 - 2018"
+          date="2022 - Present"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
