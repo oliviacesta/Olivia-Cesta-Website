@@ -29,14 +29,14 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Cool University, Vancouver, British Columbia
+            University of Waterloo, Waterloo, Ontario
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">
             Bachelor's Degree
           </h4>
 
-          <p> Computer Science</p>
+          <p> Systems Design Engineering</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
